@@ -1,0 +1,71 @@
+.cabecalho{
+    margin-left: 40%;
+}
+
+.pagina{
+    width: 700px;
+}
+
+.nome{
+    float: left;
+    background-color: red;
+    margin: 20px;
+    height: 40px;
+    width: 300px;
+}
+
+.data{
+    float: right;
+    background-color: red;
+    margin: 20px;
+    height: 40px;
+    width: 300px;
+}
+
+.curso{
+    float: left;
+    background-color: red;
+    margin: 20px;
+    height: 40px;
+    width: 300px;
+}
+
+.att{
+    float: right;
+    background-color: red;
+    margin: 20px;
+    height: 40px;
+    width: 300px;
+}
+
+.rotina{
+    float: left;
+    background-color: blue;
+    margin: 20px;
+    height: 250px;
+    width: 300px;
+}
+
+.hobbies{
+    float: right;
+    background-color: green;
+    margin: 20px;
+    height: 250px;
+    width: 300px;
+}
+
+.bandas{
+    float: left;
+    background-color: green;
+    margin: 20px;
+    height: 250px;
+    width: 300px;
+}
+
+.viagens{
+    float: right;
+    background-color: blue;
+    margin: 20px;
+    height: 250px;
+    width: 300px;
+}
